@@ -68,6 +68,7 @@ Welcome to Red - Discord Bot's documentation!
 
     changelog
     release_notes_3_2_0
+    incompatible_changes
 
 .. toctree::
     :maxdepth: 2
