@@ -19,6 +19,7 @@ Documentation changes
 ---------------------
 
 - Added `cog guide for Filter cog <cog_guides/filter>` (:issue:`4511`)
+- Restructured the host list (:issue:`4710`)
 
 
 Miscellaneous
